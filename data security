@@ -1,0 +1,32 @@
+
+    * Data Security is the practice of protecting digital information from unauthorized access..
+    corruption or theft throughout its entire lifecycle.. 
+
+    Data Security Best Practices:
+
+        1. Understand Data Technologies and Databases
+        2. Identify and Classify Sensitive Data
+        3. Create a Data Usage Policy
+        4. Control Access to Sensitive Data
+            
+            Administrative Controls 
+            Technical Controls 
+            Permissions - Full Control, Modify, Read and Execute, Read, Write
+
+            Security Devices and Methods 
+                Data Loss Prevention (DLP)
+                Firewall
+                Network access control (NAC) 
+                Proxy server
+
+
+        5.  Implement Change Management And Database Auditing.
+        6.  Use Data Encryption 
+        7.  Backup Data 
+        8.  Use RAID  
+        9.  Use Clustering and Load Balancing 
+        10. Harden Systems 
+        11. Apply a proper Patch Management Strategy 
+        12. Protect Data from Insider Threats 
+        13. Use endpoint security systems to protect your data	
+
