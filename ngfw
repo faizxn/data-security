@@ -1,0 +1,14 @@
+
+
+* A Traditional Firewall - provides stateful inspection of network traffic. It allows or blocks traffic 
+based on state.. port.. and protocol and filters traffic based on administrator-defined rules..
+
+* A Next-Generation Firewall (NGFW) - does this and so much more. In addition to access control NGFWs can
+block modern threats such as advanced malware and application-layer attacks. 
+
+According to Gartner definition, a next-generation firewall must include
+
+	+ Standard Firewall Capabilities like Stateful Inspection
+	+ Integrated Intrusion Prevention (IPS)
+	+ Application Awareness and Control and Block risky Apps
+	+ Threat intelligence sources
